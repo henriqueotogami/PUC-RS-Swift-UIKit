@@ -33,5 +33,5 @@ Atualmente, trabalham em um projeto extremamente inovador, capacitando estudante
 ## Link do curso no app iTunes U | Para Iphone e Ipad
 https://www.notion.so/Desenvolvimento-iOS-em-Swift-c372b464c56548a8bd85946c2ebef94a#0a8ce31aab5c4477bc436a70f7b782b9
 
-## Link das anotações do Notion
+## Link das minhas anotações do Notion
 https://www.notion.so/Desenvolvimento-iOS-em-Swift-c372b464c56548a8bd85946c2ebef94a
