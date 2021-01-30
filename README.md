@@ -5,6 +5,8 @@
 
 Este material de curso só está disponível no app iTunes U para iPhone ou iPad
 
+> Estou utilizando a versão Version 12.2 (12B45b) do Xcode no MacOS Catalina e Swift 5.3. O curso foi desenvolvido em Swift 2.2 (2016), assim este repositório serve como atualização.
+
 ## Todo curso em PT-BR
 
 ## **Descrição do curso**
@@ -30,8 +32,26 @@ Atualmente, trabalham em um projeto extremamente inovador, capacitando estudante
 - Mauricio Zaquia - iOS Dev Instructor | LinkedIn | mauriciotzaquia@gmail.com
 - Ricardo Rauber - iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ricardorauber85/) | ricardorauber@gmail.com
 
+---
+
 ## Link do curso no app iTunes U | Para Iphone e Ipad
 https://www.notion.so/Desenvolvimento-iOS-em-Swift-c372b464c56548a8bd85946c2ebef94a#0a8ce31aab5c4477bc436a70f7b782b9
 
 ## Link das minhas anotações do Notion
 https://www.notion.so/Desenvolvimento-iOS-em-Swift-c372b464c56548a8bd85946c2ebef94a
+
+---
+
+## Contribuições sempre são bem-vindas 👨🏻‍💻
+
+- [x] Faça um fork deste repositório (https://github.com/HenriqueMAP/swift-pt-br/fork);
+- [x] Crie um branch com as suas modificações ` git checkout -b my-new-resource `;
+- [x] Faça commit `git commit -am 'Adicionando um novo recurso ...'`;
+- [x] Faça um Push ` git push origin my-new-feature ` ;
+- [x] Crie uma nova pull request neste repositório. :octocat:
+
+**Depois que sua pull request for merged, você pode excluir sua branch tranquilamente.**
+
+---
+
+## Repositório desenvolvido por Henrique Matheus Alves Pereira 🦁
