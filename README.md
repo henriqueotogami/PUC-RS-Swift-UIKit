@@ -1,11 +1,13 @@
 
-# Desenvolvimento iOS em Swift (totalmente em PT-BR)
+# Desenvolvimento iOS em Swift (totalmente em PT-BR)🇧🇷
 
 ## Somente UIKit, não aborda sobre SwiftUI
+
+<img width="auto" src="https://github.com/HenriqueMAP/PUC-RS-Swift-UIKit/blob/main/puc-rs-swift.png?raw=true">
  
 > Produzido por PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul. Departamento: FACIN
 
-### Data de criação do curso: 1 de Outubro de 2014 | Atualização: 24 de Junho de 2015 
+### 📅 Data de criação do curso: 1 de Outubro de 2014 | Atualização: 24 de Junho de 2015 
 
 ### Duração estimada: 4 semanas
 
@@ -17,7 +19,7 @@ Neste curso, você estará mergulhando no mundo da programação para dispositiv
 
 Esperamos que goste, e aguardamos ansiosos para tê-lo no time de desenvolvedores iOS!
 
-## Professores do curso
+## 🎓 Professores do curso
 
 Os instrutores do curso "Desenvolvimento iOS em Swift" são profissionais altamente qualificados nas tecnologias Apple e nas linguagens Objective-C e Swift. Além disso, todos contam com diversas publicações na App Store, larga experiência em educação e participação em palestras e conferências a nível mundial, como a WWDC, da Apple. 
 
@@ -55,14 +57,18 @@ Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ric
 - [ ] Vídeo 13: Desenvolvimento de Jogos - SpriteKit;
 - [ ] Vídeo 14: Notificações - Push Notifications, Push Actions, Slient Notifications.
 
-## Link do curso no app iTunes U | Para iPhone e iPad
+## Link do curso no app iTunes U | Para iPhone e iPad 📱
 #### Atualmente, não é possível assitir esse curso apenas no Mac. É necessário um iPhone ou iPad.
-https://itunes.apple.com/br/course/id937721240
-
-## Link das minhas anotações do Notion
+<a target="_blank" href="https://itunes.apple.com/br/course/id937721240">
+ <img width="auto" src=https://github.com/HenriqueMAP/PUC-RS-Swift-UIKit/blob/main/iTunes-link.png?raw=true">
+<a/>
+                                                                                               
+## Anotações no Notion 📖
 https://www.notion.so/Desenvolvimento-iOS-em-Swift-c372b464c56548a8bd85946c2ebef94a
 
-### Estou utilizando a versão Version 12.2 (12B45b) do Xcode no MacOS Catalina e Swift 5.3. O curso foi desenvolvido em Swift 2.2, assim este repositório serve como atualização.
+### Observação
+#### Estou utilizando a versão Version 12.2 (12B45b) do Xcode no MacOS Catalina e Swift 5.3. 
+#### O curso foi desenvolvido em Swift 2.2, assim este repositório serve como atualização.
 
 ## Contribuições sempre são bem-vindas 👨🏻‍💻
 
