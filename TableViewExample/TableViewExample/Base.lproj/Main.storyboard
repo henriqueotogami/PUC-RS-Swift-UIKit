@@ -21,14 +21,14 @@
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="Cell" id="dG6-Ss-yuz" customClass="CustomTableViewCell" customModule="TableViewExample">
-                                        <rect key="frame" x="0.0" y="28" width="374" height="58.5"/>
+                                        <rect key="frame" x="0.0" y="28" width="374" height="58"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="dG6-Ss-yuz" id="M80-82-Hqg">
-                                            <rect key="frame" x="0.0" y="0.0" width="374" height="58.5"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="374" height="58"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="935-0M-yiy" userLabel="lblNum">
-                                                    <rect key="frame" x="311.5" y="8" width="42.5" height="42.5"/>
+                                                    <rect key="frame" x="312" y="8" width="42" height="42"/>
                                                     <constraints>
                                                         <constraint firstAttribute="width" secondItem="935-0M-yiy" secondAttribute="height" multiplier="1:1" id="uot-oG-DqO"/>
                                                     </constraints>
