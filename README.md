@@ -1,8 +1,13 @@
 
 # Desenvolvimento iOS em Swift (totalmente em PT-BR)
+
+## Somente UIKit, não aborda sobre SwiftUI
  
-> Produzido por PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul
-> Estou utilizando a versão Version 12.2 (12B45b) do Xcode no MacOS Catalina e Swift 5.3. O curso foi desenvolvido em Swift 2.2 (2016), assim este repositório serve como atualização.
+> Produzido por PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul. Departamento: FACIN
+
+### Data de criação do curso: 1 de Outubro de 2014 | Atualização: 24 de Junho de 2015 
+
+### Duração estimada: 4 semanas
 
 ## **Descrição do curso**
 
@@ -18,7 +23,9 @@ Os instrutores do curso "Desenvolvimento iOS em Swift" são profissionais altame
 
 Apaixonados pelo que fazem, buscam reinventar o processo de inovação e criação, a partir de metodologias didáticas diferenciadas e suporte contínuo em diferentes áreas de atuação.
 
-Atualmente, trabalham em um projeto extremamente inovador, capacitando estudantes de graduação em desenvolvimento iOS e empreendedorismo. A equipe é composta por 6 profissionais, sendo 5 instrutores e 1 Gerente de Projetos:
+Atualmente, trabalham em um projeto extremamente inovador, capacitando estudantes de graduação em desenvolvimento iOS e empreendedorismo. 
+
+A equipe é composta por 6 profissionais, sendo 5 instrutores e 1 Gerente de Projetos:
 
 |Nome|Profissão|Contato 1|Contato 2|
 |:---:|:---:|:---:|:---:|
@@ -29,7 +36,24 @@ Mauricio Meirelles | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in
 Mauricio Zaquia | iOS Dev Instructor | LinkedIn | [mauriciotzaquia@gmail.com](mailto:mauriciotzaquia@gmail.com)
 Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ricardorauber85/) | [ricardorauber@gmail.com](mailto:ricardorauber@gmail.com)
 
-#### Informações de contato mencionadas acima foram obtidas na seção iTunes U > Desenvolvimento iOS em Swift > Informações > Professor
+#### Informações de contato foram obtidas na seção iTunes U > Desenvolvimento iOS em Swift > Informações > Professor
+
+## Sumário
+
+- [x] Vídeo 1: Instrutores;
+- [x] Vídeo 2: Introdução ao Swift;
+- [x] Vídeo 3: Arquitetura iOS - MVC, Delegate, Data Source, Notification Center;
+- [x] Vídeo 4: Interfaces Gráficas - UIViewController, Interface Builder;
+- [x] Vídeo 5: Tabelas - UITableView, Prototype Cell;
+- [ ] Vídeo 6: Views customizadas no Interface Builder - @IBDesignable, @IBInspectable;
+- [ ] Vídeo 7: Storyboard e Navegação - UINavigationController, UITabBarController;
+- [ ] Vídeo 8: Múltiplas telas - UIScrollView, UISlider, UISwitch, UIImageView;
+- [ ] Vídeo 9: Concorrência e Linguagem Funcional - GCD, Threads;
+- [ ] Vídeo 10: Armazenamento e Persistência de Dados - NSUserDefaults, Core Data, CloudKit;
+- [ ] Vídeo 11: Core Location e Mapas - MapKit;
+- [ ] Vídeo 12: CoreBluetooth e Contexto - iBeacon;
+- [ ] Vídeo 13: Desenvolvimento de Jogos - SpriteKit;
+- [ ] Vídeo 14: Notificações - Push Notifications, Push Actions, Slient Notifications.
 
 ## Link do curso no app iTunes U | Para iPhone e iPad
 #### Atualmente, não é possível assitir esse curso apenas no Mac. É necessário um iPhone ou iPad.
@@ -38,7 +62,7 @@ https://itunes.apple.com/br/course/id937721240
 ## Link das minhas anotações do Notion
 https://www.notion.so/Desenvolvimento-iOS-em-Swift-c372b464c56548a8bd85946c2ebef94a
 
----
+### Estou utilizando a versão Version 12.2 (12B45b) do Xcode no MacOS Catalina e Swift 5.3. O curso foi desenvolvido em Swift 2.2, assim este repositório serve como atualização.
 
 ## Contribuições sempre são bem-vindas 👨🏻‍💻
 
