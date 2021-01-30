@@ -72,7 +72,7 @@ https://www.notion.so/Desenvolvimento-iOS-em-Swift-c372b464c56548a8bd85946c2ebef
 
 ## Contribuições sempre são bem-vindas 👨🏻‍💻
 
-- [x] Faça um fork deste repositório (https://github.com/HenriqueMAP/swift-pt-br/fork);
+- [x] Faça um fork deste repositório (https://github.com/HenriqueMAP/PUC-RS-Swift-UIKit/fork);
 - [x] Crie um branch com as suas modificações ` git checkout -b my-new-resource `;
 - [x] Faça commit `git commit -am 'Adicionando um novo recurso ...'`;
 - [x] Faça um Push ` git push origin my-new-feature ` ;
