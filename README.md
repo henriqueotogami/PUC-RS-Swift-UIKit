@@ -1,13 +1,8 @@
 
-# Desenvolvimento iOS em Swift
+# Desenvolvimento iOS em Swift (totalmente em PT-BR)
  
 > Produzido por PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul
-
-Este material de curso só está disponível no app iTunes U para iPhone ou iPad
-
 > Estou utilizando a versão Version 12.2 (12B45b) do Xcode no MacOS Catalina e Swift 5.3. O curso foi desenvolvido em Swift 2.2 (2016), assim este repositório serve como atualização.
-
-## Todo curso em PT-BR
 
 ## **Descrição do curso**
 
@@ -34,9 +29,7 @@ Mauricio Meirelles | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in
 Mauricio Zaquia | iOS Dev Instructor | LinkedIn | [mauriciotzaquia@gmail.com](mailto:mauriciotzaquia@gmail.com)
 Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ricardorauber85/) | [ricardorauber@gmail.com](mailto:ricardorauber@gmail.com)
 
-### Informações de contato mencionadas acima foram obtidas na seção iTunes U > Desenvolvimento iOS em Swift > Informações > Professor
-
----
+#### Informações de contato mencionadas acima foram obtidas na seção iTunes U > Desenvolvimento iOS em Swift > Informações > Professor
 
 ## Link do curso no app iTunes U | Para iPhone e iPad
 #### Atualmente, não é possível assitir esse curso apenas no Mac. É necessário um iPhone ou iPad.
