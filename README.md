@@ -29,14 +29,14 @@ Atualmente, trabalham em um projeto extremamente inovador, capacitando estudante
 
 A equipe é composta por 6 profissionais, sendo 5 instrutores e 1 Gerente de Projetos:
 
-|Nome|Profissão|Contato 1|Contato 2|
-|:---:|:---:|:---:|:---:|
-Afonso Sales |iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/afonsosales/) | [afonso.sales@gmail.com](mailto:afonso.sales@gmail.com)
-Alan Santos | iOS Dev Project Manager | LinkedIn | [alan.ric@gmail.com](mailto:alan.ric@gmail.com)
-Alexandra Aguiar | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/alexandraaguiar/) | [xanda.aguiar@gmail.com](mailto:xanda.aguiar@gmail.com)
-Mauricio Meirelles | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/mauriciomeirelles/) | [mauricio.m@gmail.com](mailto:mauricio.m@gmail.com)
-Mauricio Zaquia | iOS Dev Instructor | LinkedIn | [mauriciotzaquia@gmail.com](mailto:mauriciotzaquia@gmail.com)
-Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ricardorauber85/) | [ricardorauber@gmail.com](mailto:ricardorauber@gmail.com)
+|Nome|Profissão|Contato 1|Contato 2|Contato 3|
+|:---:|:---:|:---:|:---:|:---:|
+Afonso Sales |iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/afonsosales/) | [afonso.sales@gmail.com](mailto:afonso.sales@gmail.com)|[GitHub](https://github.com/afonsosales)
+Alan Santos | iOS Dev Project Manager | LinkedIn | [alan.ric@gmail.com](mailto:alan.ric@gmail.com)|GitHub|
+Alexandra Aguiar | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/alexandraaguiar/) | [xanda.aguiar@gmail.com](mailto:xanda.aguiar@gmail.com)|[GitHub](https://github.com/xandaaguiar)
+Mauricio Meirelles | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/mauriciomeirelles/) | [mauricio.m@gmail.com](mailto:mauricio.m@gmail.com)|[GitHub](https://github.com/mauriciomeirelles)
+Mauricio Zaquia | iOS Dev Instructor | LinkedIn | [mauriciotzaquia@gmail.com](mailto:mauriciotzaquia@gmail.com)|[GitHub](https://github.com/mtzaquia)
+Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ricardorauber85/) | [ricardorauber@gmail.com](mailto:ricardorauber@gmail.com)|[GitHub](https://github.com/ricardorauber)
 
 #### Informações de contato foram obtidas na seção iTunes U > Desenvolvimento iOS em Swift > Informações > Professor
 
