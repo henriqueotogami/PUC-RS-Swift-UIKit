@@ -49,8 +49,8 @@ Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ric
 - [x] Vídeo 5: Tabelas - UITableView, Prototype Cell;
 - [x] Vídeo 6: Views customizadas no Interface Builder - @IBDesignable, @IBInspectable;
 - [x] Vídeo 7: Storyboard e Navegação - UINavigationController, UITabBarController;
-- [ ] Vídeo 8: Múltiplas telas - UIScrollView, UISlider, UISwitch, UIImageView;
-- [ ] Vídeo 9: Concorrência e Linguagem Funcional - GCD, Threads;
+- [x] Vídeo 8: Múltiplas telas - UIScrollView, UISlider, UISwitch, UIImageView;
+- [x] Vídeo 9: Concorrência e Linguagem Funcional - GCD, Threads;
 - [ ] Vídeo 10: Armazenamento e Persistência de Dados - NSUserDefaults, Core Data, CloudKit;
 - [ ] Vídeo 11: Core Location e Mapas - MapKit;
 - [ ] Vídeo 12: CoreBluetooth e Contexto - iBeacon;
