@@ -81,7 +81,7 @@ class ViewController: UIViewController {
         // Fetch Companies
         var companies: NSArray! = managedObjectContext.executeFetchRequest(fetchRequest, error:err)
         for index in 0...companies.count-1 {
-            let company = companies[index] as Companyself.dataSource.addObject("Company: \(company.name)")!
+            let company = companies[index] as Companyself.dataSource.addObject;("Company: \(company.name)")!
         }
         
         // Fetch Products
