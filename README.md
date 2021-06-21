@@ -51,8 +51,8 @@ Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ric
 - [x] Vídeo 7: Storyboard e Navegação - UINavigationController, UITabBarController;
 - [x] Vídeo 8: Múltiplas telas - UIScrollView, UISlider, UISwitch, UIImageView;
 - [x] Vídeo 9: Concorrência e Linguagem Funcional - GCD, Threads;
-- [ ] Vídeo 10: Armazenamento e Persistência de Dados - NSUserDefaults, Core Data, CloudKit;
-- [ ] Vídeo 11: Core Location e Mapas - MapKit;
+- [x] Vídeo 10: Armazenamento e Persistência de Dados - NSUserDefaults, Core Data, CloudKit;
+- [x] Vídeo 11: Core Location e Mapas - MapKit;
 - [ ] Vídeo 12: CoreBluetooth e Contexto - iBeacon;
 - [ ] Vídeo 13: Desenvolvimento de Jogos - SpriteKit;
 - [ ] Vídeo 14: Notificações - Push Notifications, Push Actions, Slient Notifications.
