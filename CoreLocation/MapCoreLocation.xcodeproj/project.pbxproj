@@ -14,11 +14,10 @@
 		972F83CA2629E4B100EB6626 /* CoreLocation.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 972F83C82629E4B100EB6626 /* CoreLocation.xcdatamodeld */; };
 		972F83CC2629E4B200EB6626 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 972F83CB2629E4B200EB6626 /* Assets.xcassets */; };
 		972F83CF2629E4B200EB6626 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 972F83CD2629E4B200EB6626 /* LaunchScreen.storyboard */; };
-		97CC35F82680233B00B501B6 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 97CC35F72680233B00B501B6 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		972F83BC2629E4B100EB6626 /* CoreLocation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreLocation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		972F83BC2629E4B100EB6626 /* MapCoreLocation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MapCoreLocation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		972F83BF2629E4B100EB6626 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		972F83C12629E4B100EB6626 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		972F83C32629E4B100EB6626 /* MapKitViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapKitViewController.swift; sourceTree = "<group>"; };
@@ -27,7 +26,6 @@
 		972F83CB2629E4B200EB6626 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		972F83CE2629E4B200EB6626 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		972F83D02629E4B200EB6626 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		97CC35F72680233B00B501B6 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +50,7 @@
 		972F83BD2629E4B100EB6626 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				972F83BC2629E4B100EB6626 /* CoreLocation.app */,
+				972F83BC2629E4B100EB6626 /* MapCoreLocation.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -63,7 +61,6 @@
 				972F83BF2629E4B100EB6626 /* AppDelegate.swift */,
 				972F83C12629E4B100EB6626 /* SceneDelegate.swift */,
 				972F83C32629E4B100EB6626 /* MapKitViewController.swift */,
-				97CC35F72680233B00B501B6 /* SecondViewController.swift */,
 				972F83C52629E4B100EB6626 /* Main.storyboard */,
 				972F83CB2629E4B200EB6626 /* Assets.xcassets */,
 				972F83CD2629E4B200EB6626 /* LaunchScreen.storyboard */,
@@ -76,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		972F83BB2629E4B100EB6626 /* CoreLocation */ = {
+		972F83BB2629E4B100EB6626 /* MapCoreLocation */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 972F83D32629E4B200EB6626 /* Build configuration list for PBXNativeTarget "CoreLocation" */;
+			buildConfigurationList = 972F83D32629E4B200EB6626 /* Build configuration list for PBXNativeTarget "MapCoreLocation" */;
 			buildPhases = (
 				972F83B82629E4B100EB6626 /* Sources */,
 				972F83B92629E4B100EB6626 /* Frameworks */,
@@ -88,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = CoreLocation;
+			name = MapCoreLocation;
 			productName = CoreLocation;
-			productReference = 972F83BC2629E4B100EB6626 /* CoreLocation.app */;
+			productReference = 972F83BC2629E4B100EB6626 /* MapCoreLocation.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -107,7 +104,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 972F83B72629E4B100EB6626 /* Build configuration list for PBXProject "CoreLocation" */;
+			buildConfigurationList = 972F83B72629E4B100EB6626 /* Build configuration list for PBXProject "MapCoreLocation" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -120,7 +117,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				972F83BB2629E4B100EB6626 /* CoreLocation */,
+				972F83BB2629E4B100EB6626 /* MapCoreLocation */,
 			);
 		};
 /* End PBXProject section */
@@ -146,7 +143,6 @@
 				972F83C42629E4B100EB6626 /* MapKitViewController.swift in Sources */,
 				972F83C02629E4B100EB6626 /* AppDelegate.swift in Sources */,
 				972F83C22629E4B100EB6626 /* SceneDelegate.swift in Sources */,
-				97CC35F82680233B00B501B6 /* SecondViewController.swift in Sources */,
 				972F83CA2629E4B100EB6626 /* CoreLocation.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -330,7 +326,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		972F83B72629E4B100EB6626 /* Build configuration list for PBXProject "CoreLocation" */ = {
+		972F83B72629E4B100EB6626 /* Build configuration list for PBXProject "MapCoreLocation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				972F83D12629E4B200EB6626 /* Debug */,
@@ -339,7 +335,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		972F83D32629E4B200EB6626 /* Build configuration list for PBXNativeTarget "CoreLocation" */ = {
+		972F83D32629E4B200EB6626 /* Build configuration list for PBXNativeTarget "MapCoreLocation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				972F83D42629E4B200EB6626 /* Debug */,
