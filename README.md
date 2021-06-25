@@ -1,15 +1,20 @@
 
-# Desenvolvimento iOS em Swift (totalmente em PT-BR)🇧🇷
+## Desenvolvimento iOS em Swift | PT-BR 🇧🇷
 
-## Somente UIKit, não aborda sobre SwiftUI
+### *Somente UIKit, não aborda sobre SwiftUI
+<br>
 
 <img width="auto" src="https://github.com/HenriqueMAP/PUC-RS-Swift-UIKit/blob/main/puc-rs-swift.png?raw=true">
  
 > Produzido por PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul. Departamento: FACIN
 
+<br>
+
 ### 📅 Data de criação do curso: 1 de Outubro de 2014 | Atualização: 24 de Junho de 2015 
 
 ### Duração estimada: 4 semanas
+
+---
 
 <details>
 <summary>Sobre o curso</summary>
@@ -49,7 +54,7 @@ Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ric
 
 ---
 
-## Sumário das aulas
+### Sumário das aulas
 
 - [x] Vídeo 1: Instrutores;
 - [x] Vídeo 2: Introdução ao Swift;
@@ -69,7 +74,10 @@ Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ric
 ---
 
 ## Link do curso no app iTunes U | Para iPhone e iPad 📱
-#### Atualmente, não é possível assitir esse curso apenas no Mac. É necessário um iPhone ou iPad.
+<br>
+
+> Atualmente, não é possível assitir esse curso apenas no Mac. É necessário um iPhone ou iPad.
+
 <a target="_blank" href="https://itunes.apple.com/br/course/id937721240">
  <img width="auto" src=https://github.com/HenriqueMAP/PUC-RS-Swift-UIKit/blob/main/iTunes-link.png?raw=true">
 <a/>
@@ -96,6 +104,8 @@ Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ric
 #### O curso foi desenvolvido em Swift 2.2, assim este repositório serve como atualização.
 
 </details>
+
+---
 
 <details>
 <summary>Contribuições para este repositório</summary>
