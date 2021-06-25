@@ -53,9 +53,9 @@ Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ric
 - [x] Vídeo 9: Concorrência e Linguagem Funcional - GCD, Threads;
 - [x] Vídeo 10: Armazenamento e Persistência de Dados - NSUserDefaults, Core Data, CloudKit;
 - [x] Vídeo 11: Core Location e Mapas - MapKit;
-- [ ] Vídeo 12: CoreBluetooth e Contexto - iBeacon;
-- [ ] Vídeo 13: Desenvolvimento de Jogos - SpriteKit;
-- [ ] Vídeo 14: Notificações - Push Notifications, Push Actions, Slient Notifications.
+- [x] Vídeo 12: CoreBluetooth e Contexto - iBeacon;
+- [x] Vídeo 13: Desenvolvimento de Jogos - SpriteKit;
+- [x] Vídeo 14: Notificações - Push Notifications, Push Actions, Slient Notifications.
 
 ## Link do curso no app iTunes U | Para iPhone e iPad 📱
 #### Atualmente, não é possível assitir esse curso apenas no Mac. É necessário um iPhone ou iPad.
