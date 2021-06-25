@@ -11,7 +11,11 @@
 
 ### Duração estimada: 4 semanas
 
-## **Descrição do curso**
+<details>
+<summary>Sobre o curso</summary>
+<br>
+
+## **Descrição**
 
 ### Bem-vindo ao iTunes U "Desenvolvimento iOS em Swift"!
 
@@ -19,7 +23,8 @@ Neste curso, você estará mergulhando no mundo da programação para dispositiv
 
 Esperamos que goste, e aguardamos ansiosos para tê-lo no time de desenvolvedores iOS!
 
-## 🎓 Professores do curso
+## 🎓 Instrutores
+
 
 Os instrutores do curso "Desenvolvimento iOS em Swift" são profissionais altamente qualificados nas tecnologias Apple e nas linguagens Objective-C e Swift. Além disso, todos contam com diversas publicações na App Store, larga experiência em educação e participação em palestras e conferências a nível mundial, como a WWDC, da Apple. 
 
@@ -40,7 +45,11 @@ Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ric
 
 #### Informações de contato foram obtidas na seção iTunes U > Desenvolvimento iOS em Swift > Informações > Professor
 
-## Sumário
+</details>
+
+---
+
+## Sumário das aulas
 
 - [x] Vídeo 1: Instrutores;
 - [x] Vídeo 2: Introdução ao Swift;
@@ -57,18 +66,40 @@ Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ric
 - [x] Vídeo 13: Desenvolvimento de Jogos - SpriteKit;
 - [x] Vídeo 14: Notificações - Push Notifications, Push Actions, Slient Notifications.
 
+---
+
 ## Link do curso no app iTunes U | Para iPhone e iPad 📱
 #### Atualmente, não é possível assitir esse curso apenas no Mac. É necessário um iPhone ou iPad.
 <a target="_blank" href="https://itunes.apple.com/br/course/id937721240">
  <img width="auto" src=https://github.com/HenriqueMAP/PUC-RS-Swift-UIKit/blob/main/iTunes-link.png?raw=true">
 <a/>
-                                                                                               
-## Anotações no Notion 📖
-https://www.notion.so/Desenvolvimento-iOS-em-Swift-c372b464c56548a8bd85946c2ebef94a
 
-### Observação
-#### Estou utilizando a versão Version 12.2 (12B45b) do Xcode no MacOS Catalina e Swift 5.3. 
+---
+
+<details>
+<summary>Anotações das aulas</summary>
+<br>
+    
+## Notion 📖
+
+[Anotações do curso de Desenvolvimento iOS em Swift (clique aqui)](https://www.notion.so/Desenvolvimento-iOS-em-Swift-c372b464c56548a8bd85946c2ebef94a)
+
+</details>
+
+---
+
+<details>
+<summary>Versão do Swift</summary>
+<br>
+
+#### Estou utilizando a versão Version 12.2 (12B45b) do Xcode no MacOS Catalina e Swift 5. Recentemente (06/2021), atualizei para o MacOS Big Sur.
 #### O curso foi desenvolvido em Swift 2.2, assim este repositório serve como atualização.
+
+</details>
+
+<details>
+<summary>Contribuições para este repositório</summary>
+<br>
 
 ## Contribuições sempre são bem-vindas 👨🏻‍💻
 
@@ -79,6 +110,8 @@ https://www.notion.so/Desenvolvimento-iOS-em-Swift-c372b464c56548a8bd85946c2ebef
 - [x] Crie uma nova pull request neste repositório. :octocat:
 
 **Depois que sua pull request for merged, você pode excluir sua branch tranquilamente.**
+
+</details>
 
 ---
 
