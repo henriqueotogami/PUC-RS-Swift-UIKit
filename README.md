@@ -4,7 +4,7 @@
 ### *Somente UIKit, não aborda sobre SwiftUI
 <br>
 
-<img width="auto" src="https://github.com/HenriqueMAP/PUC-RS-Swift-UIKit/blob/main/puc-rs-swift.png?raw=true">
+<img width="auto" src="https://github.com/henriqueotogami/PUC-RS-Swift-UIKit/blob/main/puc-rs-swift.png?raw=true">
  
 > Produzido por PUCRS - Pontifícia Universidade Católica do Rio Grande do Sul. Departamento: FACIN
 
@@ -79,7 +79,7 @@ Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ric
 > Atualmente, não é possível assitir esse curso apenas no Mac. É necessário um iPhone ou iPad.
 
 <a target="_blank" href="https://itunes.apple.com/br/course/id937721240">
- <img width="auto" src=https://github.com/HenriqueMAP/PUC-RS-Swift-UIKit/blob/main/iTunes-link.png?raw=true">
+ <img width="auto" src=https://github.com/henriqueotogami/PUC-RS-Swift-UIKit/blob/main/iTunes-link.png?raw=true">
 <a/>
 
 ---
@@ -113,7 +113,7 @@ Ricardo Rauber | iOS Dev Instructor | [LinkedIn](https://www.linkedin.com/in/ric
 
 ## Contribuições sempre são bem-vindas 👨🏻‍💻
 
-- [x] Faça um fork deste repositório (https://github.com/HenriqueMAP/PUC-RS-Swift-UIKit/fork);
+- [x] Faça um fork deste repositório (https://github.com/henriqueotogami/PUC-RS-Swift-UIKit/fork);
 - [x] Crie um branch com as suas modificações ` git checkout -b my-new-resource `;
 - [x] Faça commit `git commit -am 'Adicionando um novo recurso ...'`;
 - [x] Faça um Push ` git push origin my-new-feature ` ;
